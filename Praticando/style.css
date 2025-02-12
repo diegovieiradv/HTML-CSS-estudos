@@ -1,0 +1,13 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+}
+img{
+    width: 430px;
+    height: 430px;
+}
+img#cel-cor{
+    width: 200px;
+    height: 370px;
+}
